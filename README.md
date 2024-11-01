@@ -11,3 +11,5 @@ Presentación del comando print ("hola mundo") en diferentes interpretes.
 4. (Python)
 
 ![Imagen de WhatsApp 2024-11-01 a las 17 14 09_b0d352a6](https://github.com/user-attachments/assets/e1ee81eb-a27d-4258-b26f-5e87cb384c55) 
+
+Se da por cumpido el reto 2. :V
