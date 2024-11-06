@@ -1,4 +1,4 @@
-# Hola_MUNDO_RETO_2
+# Hola_MUNDO_RETO_2_MateoRodriguez
 Presentación del comando print ("hola mundo") en diferentes interpretes.
 1. (Git)
 
